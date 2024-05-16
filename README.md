@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img  align="right" alt="Coding" width="400" src="[https://tenor.com/vsJvUpbU4GY.gif](https://tenor.com/vsJvUpbU4GY.gif)">
+<img  align="right" alt="Coding" width="400" src="https://tenor.com/vsJvUpbU4GY.gif](https://tenor.com/vsJvUpbU4GY.gif">
 
 - 🔭 I’m currently working on **Python**
 
