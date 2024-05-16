@@ -11,7 +11,7 @@
 - 📫 How to reach me **arnavku4321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJpOXR2YXc0ZXgxb2hnaTUyNWYxcmE1Z2lhbWlocTRveGxjczczMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"> 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAwb3NxeDAyYzRpeHI2dm4wb2Q4azYxNG1mZjV4eWpsc2xybDRyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAnpMSHcurJVS/giphy.gif"> 
 <p align="left">
 <a href="https://twitter.com/kumararnav3714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumararnav3714" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnavkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavkumar" height="30" width="40" /></a>
