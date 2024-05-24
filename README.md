@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NumPy**
 
 - 👯 I’m looking to collaborate on [team-builder](https://github.com/kumararnav0/Valorant-Team-Maker)
 
