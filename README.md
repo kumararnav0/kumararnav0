@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [team-builder](https://github.com/kumararnav0/Valorant-Team-Maker)
 
 - 📫 How to reach me **arnavku4321@gmail.com**
-<img align="right" alt="Coding" width="400" >
+<img align="left" alt="Coding" width="400" >
 <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kumararnav0&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 <div align="right">
