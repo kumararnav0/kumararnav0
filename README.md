@@ -24,8 +24,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumararnav0&" alt="kumararnav0" /></p>
 <div align="center">
    
-<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryan1165&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kumararnav0&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryan1165&theme=dark"/></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kumararnav0&theme=dark"/></a>
 </div>
