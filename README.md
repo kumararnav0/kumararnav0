@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Kumar </h1>
-<h3 align="center">A passionate developer 🇮🇳</h3>
+<h3 align="center">A passionate developer **🇮🇳**</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI3aXZic3NxeXk4MzN3b3Uzdng1aGUxZzhkdjY1dDZnc3RmaGVwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif">
 
 - 🔭 I’m currently working on **Python**
