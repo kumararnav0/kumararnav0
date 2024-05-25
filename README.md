@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arnavku4321@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <img align="right" alt="Coding" width="400" 
 
 <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kumararnav0&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -20,7 +20,7 @@
 </div>
 
 
-   
+<h3 align="left">Connect with me:</h3>   
 <p align="left">
 <a href="https://twitter.com/kumararnav3714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumararnav3714" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnavkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-kumar" height="30" width="40" /></a>
